@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "next-intl과 함께하는 Next.js에 오신 것을 환영합니다!",
+    "description": "이것은 Next.js 15와 next-intl로 구축되어 GitHub Pages에 배포된 다국어 웹사이트입니다.",
+    "about": "회사 소개"
+  },
+  "About": {
+    "title": "회사 소개",
+    "description": "우리 회사와 미션에 대해 더 자세히 알아보세요.",
+    "back": "홈으로 돌아가기"
+  },
+  "Navigation": {
+    "home": "홈",
+    "about": "소개",
+    "language": "언어"
+  },
+  "Common": {
+    "switchLanguage": "언어 변경",
+    "currentLanguage": "한국어"
+  }
+}

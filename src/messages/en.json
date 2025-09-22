@@ -1,0 +1,21 @@
+{
+  "Index": {
+    "title": "Welcome to Next.js with next-intl!",
+    "description": "This is a multilingual website built with Next.js 15 and next-intl, deployed on GitHub Pages.",
+    "about": "About us"
+  },
+  "About": {
+    "title": "About Us",
+    "description": "Learn more about our company and mission.",
+    "back": "Back to Home"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "language": "Language"
+  },
+  "Common": {
+    "switchLanguage": "Switch Language",
+    "currentLanguage": "English"
+  }
+}
